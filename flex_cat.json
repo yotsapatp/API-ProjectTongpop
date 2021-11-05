@@ -1,0 +1,159 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [{
+                "type": "text",
+                "text": "ตะกร้าสินค้า",
+                "weight": "bold",
+                "color": "#FF764B",
+                "size": "xl"
+            },
+            {
+                "type": "text",
+                "text": "PT BURN&COOK  RESTAURANT",
+                "weight": "bold",
+                "size": "xs",
+                "margin": "md",
+                "color": "#ffffff"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "xxl",
+                "spacing": "sm",
+                "contents": [{
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [{
+                                "type": "text",
+                                "text": "Energy Drink",
+                                "size": "sm",
+                                "color": "#ffffff",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "$2.99",
+                                "size": "sm",
+                                "color": "#FF764B",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [{
+                                "type": "text",
+                                "text": "Chewing Gum",
+                                "size": "sm",
+                                "color": "#ffffff",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "$0.99",
+                                "size": "sm",
+                                "color": "#FF764B",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [{
+                                "type": "text",
+                                "text": "Bottled Water",
+                                "size": "sm",
+                                "color": "#ffffff",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "$3.33",
+                                "size": "sm",
+                                "color": "#FF764B",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl",
+                        "color": "#FF764B"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "margin": "xxl",
+                        "contents": [{
+                                "type": "text",
+                                "text": "ITEMS",
+                                "size": "sm",
+                                "color": "#ffffff"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3",
+                                "size": "sm",
+                                "color": "#FF764B",
+                                "align": "end"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [{
+                                "type": "text",
+                                "text": "TOTAL",
+                                "size": "sm",
+                                "color": "#ffffff"
+                            },
+                            {
+                                "type": "text",
+                                "text": "$7.31",
+                                "size": "sm",
+                                "color": "#FF764B",
+                                "align": "end"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl",
+                "color": "#FF764B"
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "margin": "md",
+                "contents": [{
+                    "type": "icon",
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/242393089_4008742272564557_8092279073413223390_n.png?_nc_cat=108&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeFj6ZUJ00D3tftsNecwiJghgiU0dGZWV-WCJTR0ZlZX5dSnsnrXKgpn2MYBBiFmCTUHXfz1bpdKFkDprQ8oGKXk&_nc_ohc=TrmXnuApnzUAX-gkbmT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=d48b43c709ac0ea664c9d04312973549&oe=616F890F",
+                    "size": "4xl",
+                    "position": "relative"
+                }],
+                "position": "absolute",
+                "height": "50px",
+                "backgroundColor": "#271F1F",
+                "borderWidth": "2px",
+                "borderColor": "#FF764B",
+                "cornerRadius": "60px",
+                "offsetStart": "220px",
+                "offsetTop": "40px"
+            }
+        ],
+        "backgroundColor": "#271F1F"
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}
